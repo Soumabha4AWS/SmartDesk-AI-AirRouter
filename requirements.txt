@@ -1,0 +1,14 @@
+# Core runtime dependencies inferred from project imports
+python-dotenv
+langsmith
+langchain
+langchain-core
+langchain-openai
+openai
+langchain-text-splitters
+langgraph
+langchain-chroma
+chromadb
+gradio
+# Optional durable checkpointing (enable in code as needed)
+# langgraph-checkpoint-sqlite
